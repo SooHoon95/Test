@@ -168,3 +168,10 @@ $RECYCLE.BIN/
 *.lnk
 
 # End of https://www.toptal.com/developers/gitignore/api/java,macos,eclipse,windows,web,java-web
+Servers/.project
+Servers/Tomcat v8.5 Server at localhost-config/catalina.policy
+Servers/Tomcat v8.5 Server at localhost-config/catalina.properties
+Servers/Tomcat v8.5 Server at localhost-config/context.xml
+Servers/Tomcat v8.5 Server at localhost-config/server.xml
+Servers/Tomcat v8.5 Server at localhost-config/tomcat-users.xml
+Servers/Tomcat v8.5 Server at localhost-config/web.xml
